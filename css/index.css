@@ -3,4 +3,22 @@ body
 color: #124512;
 text-align: center;
 font-family: 'Times New Roman', Times, serif;
+font-size: 16px;
+margin: 0em;
+padding: 0em;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid rgba(5, 140, 182, 0.863);
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 40px;
+
 }
