@@ -43,3 +43,11 @@ padding: 0em;
 {
     padding: auto;
 }
+
+#footer 
+{
+    background: rgb(9, 63, 50);
+    color: rgb(97, 100, 99);
+    text-align: center;
+    padding: 0.5em;
+}
