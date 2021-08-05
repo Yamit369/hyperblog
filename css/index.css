@@ -1,6 +1,7 @@
 body
 {
-color: #456874;
+background-color: rgba(15, 15, 15, 0.918);
+color: #0f9743;
 text-align: center;
 font-family: 'Times New Roman', Times, serif;
 font-size: 16px;
@@ -10,12 +11,17 @@ padding: 0em;
 
 #cabecera 
 {
-    background-color: #16981648;
+    background: #16981648 url(../images/header01.png) no-repeat center center;
     box-shadow: 0 0 10px rgba(darkgrey,);
     color: black;
     font-weight: bolder;
     margin: 0;
-    padding: 1em;
+    padding: 0.5em 0 0.5em 2em;
+}
+
+#cabecera #logo
+{
+    width: 20%;
 }
 
 #cabecera #tagline {
