@@ -7,5 +7,6 @@ In this course we have learn:
 * What is the real power Git and  Github 
 * What is control flow of code
 * How to creat a a local extattion of GIt in your local system.
+*Made by the direction of Team Platzi
 
 This ReAdme is just an **ExAMPLE**, this is the way of learning why someny structures are important in the read me. 
