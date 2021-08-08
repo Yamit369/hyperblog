@@ -50,3 +50,11 @@ padding: 0em;
     padding: auto;
 }
 
+#footer
+{
+    background:rgba(13, 85, 6, 0.863);
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+
+}
