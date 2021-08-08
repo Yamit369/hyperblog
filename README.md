@@ -8,5 +8,7 @@ In this course we have learn:
 * What is control flow of code
 * How to creat a a local extattion of GIt in your local system.
 *Made by the direction of Team Platzi
+*The examples are be done in Linux, Mac and Windows.
+* This course is for all people without any distinction.
 
 This ReAdme is just an **ExAMPLE**, this is the way of learning why someny structures are important in the read me. 
